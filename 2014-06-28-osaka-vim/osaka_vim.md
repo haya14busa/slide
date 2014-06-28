@@ -1,0 +1,23 @@
+- iyuuya
+  - ruby
+- toshima66
+  - HHKBでvim
+- bouzuya
+  - bouzuなのでボウズヤ
+  - thincaさん
+  - atom
+- itchny
+  - 学生
+- kotorun
+  - 京都学生
+  - 2年
+- miyake, molifier
+- lisia
+  - 
+- ter..?
+  - 京都学生
+  - c++
+  - emacsのひとと言い争う
+- xe_no
+  - 京都学生
+  - terさんの先輩
