@@ -245,10 +245,10 @@ Demo!
 
 Memo
 ====
-tyru/restart.vim
+- tyru/restart.vim
 
 ```
-:Unit neobundle
+:Unite neobundle
 ```
 
 からの
