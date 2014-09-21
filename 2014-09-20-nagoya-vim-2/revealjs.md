@@ -3,8 +3,8 @@
 ### オンラインVim系読書会でVim力を高めよう
 
 <hr>
-### Osaka.vim #2
-#### @haya14busa 2014/08/23
+### Nagoya.vim #2
+#### @haya14busa 2014/09/20
 
 ---
 
@@ -15,10 +15,10 @@
 - GitHub: [https://github.com/haya14busa](https://github.com/haya14busa)
 - Twitter: [https://twitter.com/haya14busa](https://twitter.com/haya14busa)
 
-
 ---
 
 ### Vimとの関わり
+- Vim歴約1年半
 - [1年間『Vim駆動学習』してきて最高に楽しかったのでオススメしたい](http://haya14busa.com/vim_driven_learning/)
 - [vimrc読書会](http://vim-jp.org/reading-vimrc/), [Vimプラグイン読書会](http://haya14busa.github.io/reading-vimplugin/) やってます!
 - プラグイン:
@@ -110,6 +110,17 @@
 - やりたい
 - Vimのhelpは膨大
 - Vimは:helpからすべて学べると言っても過言じゃない
+
+---
+
+- [Vim documentation: help](http://vim-jp.org/vimdoc-ja/)
+- [Vimのhelpを快適に引こう - haya14busa](http://haya14busa.com/reading-vim-help/)
+
+### e.g.
+- `:h usr_01.txt`
+- `:h motion.txt`
+- `:h text-objects`
+- `:h cmdwin`
 
 ---
 
