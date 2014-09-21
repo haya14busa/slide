@@ -12,6 +12,8 @@
 --------
 
 ### @haya14busa
+<img src="./assets/avator.png" height="200" alt="">
+
 - GitHub: [https://github.com/haya14busa](https://github.com/haya14busa)
 - Twitter: [https://twitter.com/haya14busa](https://twitter.com/haya14busa)
 
@@ -45,7 +47,7 @@
 
 ---
 
-- 毎週23:00~
+- 毎週土曜日23:00~
 - Vimカスタマイズ力向上
 - mapの仕方, autocmdの書き方, 便利設定, プラグイントレンド, etc...
 - ログも読める
