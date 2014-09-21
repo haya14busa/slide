@@ -1,35 +1,10 @@
+<title>それVimで(ry</title>
+
 ### それVimで(ry
 
 <hr>
-### ScalaMatsuri
+### ScalaMatsuri Unconference
 #### @haya14busa 2014/09/07
-
----
-
-本当のタイトル:
---------------
-
-<hr>
-
-### ~~それVimで(ry~~
-
----
-
-それVimで出来まScala
---------------------
-
----
-
-できまScala!!!!
-===============
-
----
-
-ごめんなさい
-============
-
-<br><br>
-<small>あとScalaできませんカラ...</small>
 
 ---
 
@@ -149,7 +124,7 @@ def func(homu: Int, mado: String, mami: (String, Int)) = {
 作った
 ------
 
-GitHub(仮): [haya14busa/vim-print-debug](https://github.com/haya14busa/vim-print-debug)
+GitHub: [haya14busa/vim-print-debug](https://github.com/haya14busa/vim-print-debug) (仮)
 
 <img src="./assets/print_debug_code.png" alt="">
 
@@ -186,9 +161,44 @@ DEMO
 
 ---
 
-### ありがとうございました
+タイトル:
+--------------
+
+<hr>
+
+### ~~それVimで(ry~~
+### ~~それVimで出来るよね?~~
 
 ---
+
+それVimで出来まScala
+--------------------
+
+---
+
+できまScala!!!!
+===============
+
+---
+
+ごめんなさい
+============
+
+<br><br>
+<small>あとScalaできませんカラ...</small>
+
+---
+
+### Conclusion
+- IDEじゃなくてテキストエディタでもScalaは結構書ける
+- オンラインScala読書会 欲しい
+  - オープンソースのコード, Effective Scala, 独習Scalaz などをみんなで読めるといいかも
+
+---
+
+### ありがとうございました
+
+[@haya14busa](https://twitter.com/haya14busa)
 
 
 <style>
